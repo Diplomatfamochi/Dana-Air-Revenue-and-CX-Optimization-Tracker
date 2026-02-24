@@ -4,9 +4,9 @@ An executive BI system analyzing 129k+ global records to pinpoint a 30-minute op
 
 # ✈️ PROJECT: Dana Air: Revenue and CX Optimization Tracker
 
-<img width="740" height="416" alt="1ST Screenshot 2026-02-10" src="https://github.com/user-attachments/assets/3b1ad14a-9eca-459a-911b-2a9d9ffee91b" />
+<img width="740" height="416" alt="1st Full Dashboard - Dana-Air-Revenue-and-CX-Optimization-Tracker" src="https://github.com/user-attachments/assets/f4b5f2ab-974b-4d06-95e7-b14d903111be" />
 
-<img width="820" height="487" alt="2ND Screenshot 2026-02-10" src="https://github.com/user-attachments/assets/9eefff25-ff41-4bbd-aead-e03d62963988" />
+<img width="820" height="487" alt="2nd Full Dashboard - Dana-Air-Revenue-and-CX-Optimization-Tracker" src="https://github.com/user-attachments/assets/dc8b340d-75b2-48ab-9868-0f702ee70c2a" />
 
 # 📊 Passenger Experience & Operational Intelligence (Power BI & DAX)
 
@@ -57,19 +57,21 @@ A high-fidelity, board-ready **Decision-Support System** that converts 130k rows
 ## 📊 Key Performance Metrics
 
 ### **Service Performance & Influence**
-<img width="748" height="206" alt="Key Drivers - Influence on Passenger Satisfaction - Screenshot 2026-02-10" src="https://github.com/user-attachments/assets/bb9eca89-0a0c-434f-9576-49299385f6be" />
+<img width="748" height="206" alt="Key Drivers - Influence on Passenger Satisfaction - Screenshot 2026-02-10" src="https://github.com/user-attachments/assets/f47b1d92-a093-45fe-8347-a90e2d8908c6" />
 
-<img width="749" height="152" alt="Operational Underperformance - Bottom 5 Services - Screenshot 2026-02-10" src="https://github.com/user-attachments/assets/08a0ee62-13b8-4084-bcce-e6583525c1b9" />
+<img width="749" height="152" alt="Operational Underperformance - Bottom 5 Services - Screenshot 2026-02-10" src="https://github.com/user-attachments/assets/6c6a690e-d421-468e-bfa9-0167d68b009f" />
 
 - **Net Satisfaction Rate:** The primary pulse of the Dana Air brand.
 - **Influence Gap:** The spread between how satisfied vs. dissatisfied passengers rate specific touchpoints.
 - **Bottom 5 Service Ratings:** Identifying the "Operational Weak Links."
 
 ### **Customer Segmentation & Loyalty**
-<img width="626" height="298" alt="Satisfaction Rate by Class ans Type of Travel - Screenshot 2026-02-10" src="https://github.com/user-attachments/assets/f1a013bf-27e5-4982-b54f-da4cb3e8265c" />
+<img width="626" height="298" alt="Satisfaction Rate by Class ans Type of Travel - Screenshot 2026-02-10" src="https://github.com/user-attachments/assets/d0137dcf-e5b2-4892-90b1-8330442d6725" />
+
+<img width="749" height="111" alt="Count of Total Passengers by Customer Type - Screenshot 2026-02-10" src="https://github.com/user-attachments/assets/91b47295-31ea-4cd4-9ed8-e28e6ca3dad7" />
 
 - **Proportional Satisfaction by Class:** Comparing Business, Economy, and Eco-Plus performance.
-- **Loyalty Retention:** Measuring the sentiment of the 106,100 Returning Passengers.
+- **Loyalty Retention:** Measuring the volume and sentiment of the **106,100 Returning Passengers** vs. First-time acquisitions.
 
 ### **Operational Delay Analysis**
 - **Satisfaction Decay Trend:** Visualizing the drop in sentiment as departure delays increase.
